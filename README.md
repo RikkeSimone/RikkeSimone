@@ -8,3 +8,8 @@ I am a bubbly and kind person who absolutely loves software development, and enj
 - 😄 Pronouns: she
 - ⚡ Fun fact: You can sneeze faster than a cheetah can run. 
 
+### Deployed projects ready to view (but still being updated):
+
+Pawsome Pack Adventures: http://pawsomepackadventures.co.nz/
+
+EDA Final project: https://kiwiroadies.herokuapp.com/
