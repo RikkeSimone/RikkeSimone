@@ -15,3 +15,5 @@ Pawsome Pack Adventures: http://pawsomepackadventures.co.nz/
 EDA Final project: https://kiwiroadies.herokuapp.com/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RikkeSimone)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikkeSimone)](https://github.com/anuraghazra/github-readme-stats)
